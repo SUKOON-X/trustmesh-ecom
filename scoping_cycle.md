@@ -9,4 +9,3 @@ The initial product is a single-workflow pilot, not a full marketplace-wide AI p
 ## What is explicitly excluded?
 @CLAUDE.md (Section ## What is explicitly excluded?)
 
-
